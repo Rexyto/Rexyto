@@ -66,9 +66,11 @@ Soy un desarrollador **full stack autodidacta**, con un enfoque creativo y funci
 
 ## 💼 Algunos proyectos
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| **Task Manager CLI** | Gestor de tareas desde terminal con persistencia de datos | Python, SQLite |
-| **API RESTful básica** | CRUD de usuarios y tareas con autenticación | Node.js, Express, MySQL |
-| **Bot Discord** | Bot multipropósito con comandos personalizados | Node.js, Discord.js |
-| **Web Portfolio** | Landing page personal responsive | React, TypeScript, CSS |
+| Proyecto                     | Descripción                                                             |
+|------------------------------|-------------------------------------------------------------------------|
+| **discord-stats-bot**        | Bot de Discord en v14 diseñado para mostrar las stats de tu servidor    |
+| **discord-bot-monitor**      | Bot antichrash que reinicia tus bots automáticamente si se apagan       |
+| **discord-verification-bot** | Bot de verificación sencillo para Discord v14                           |
+| **discord-memes-photos-bot** | Bot de memes y fotos para Discord                                       |
+| **discord-copy-bot**         | Bot de respaldos y duplicación de servidores (canales, roles, etc.)     |
+| **weather-app**              | App sencilla de pronóstico del tiempo                                   |
