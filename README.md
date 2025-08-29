@@ -72,34 +72,3 @@ Soy un desarrollador **full stack autodidacta**, con un enfoque creativo y funci
 | **API RESTful básica** | CRUD de usuarios y tareas con autenticación | Node.js, Express, MySQL |
 | **Bot Discord** | Bot multipropósito con comandos personalizados | Node.js, Discord.js |
 | **Web Portfolio** | Landing page personal responsive | React, TypeScript, CSS |
-
-➡️ *Más en mis repos... échales un ojo 👀*
-
----
-
-## 📚 En progreso / Por aprender
-
-- MongoDB / PostgreSQL
-- Docker y DevOps básicos
-- Automatización avanzada
-- Arquitectura de microservicios
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rexyto&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
----
-
-## 🧩 Fun facts
-
-- Código con lo-fi, debug con café ☕
-- Me encantan los juegos retro y los proyectos open source
-- No puedo evitar meterme en líos técnicos solo para aprender algo nuevo 🤓
-
----
-
-> _Este README está siempre en construcción... igual que yo._ 
