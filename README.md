@@ -1,4 +1,4 @@
-<h1 align="center">👾 Rexy — Full Stack Dev que hace de todo</h1>
+<h1 align="center"> Rexy — Full Stack Dev que hace de todo</h1>
 
 <p align="center">
   <em>Backend, frontend, bots, scripts, plugins, webs... ¡lo que necesites, lo programo!</em>
@@ -23,38 +23,38 @@
 
 Soy un desarrollador **full stack autodidacta**, con un enfoque creativo y funcional. Me encanta **explorar tecnologías nuevas**, **resolver problemas reales** y construir desde cero proyectos útiles, locos o simplemente interesantes.
 
-> 🎯 *Mi filosofía: “Hazlo simple, hazlo bien, hazlo tú.”*
+>  *Mi filosofía: “Hazlo simple, hazlo bien, hazlo tú.”*
 
 ---
 
-## 🧠 Conocimientos principales
+##  Conocimientos principales
 
-### ⚙️ Backend & APIs
+###  Backend & APIs
 - Node.js (Express, REST)
 - Python (scripts, automatización, FastAPI)
 - Bases de datos: MySQL, SQLite
 - Autenticación, validación, control de acceso
 
-### 🎨 Frontend
+###  Frontend
 - HTML5, CSS3, JavaScript
 - React.js con TypeScript
 - Diseño responsive, componentes reutilizables
 - Arquitectura SPA y uso de hooks
 
-### 🛠️ Herramientas & Workflows
+###  Herramientas & Workflows
 - Git & GitHub
 - NPM, pip, bash scripting
 - VS Code, Postman, Prettier
 
 ---
 
-## 🚀 NebulaCore — Tu idea, mi código
+##  NebulaCore — Tu idea, mi código
 
 > ¿Tienes una idea y necesitas a alguien que la programe? ¡Eso es NebulaCore!
 
 **NebulaCore** es mi servicio personal de desarrollo a medida, donde convierto tus ideas en software real.
 
-### ✅ ¿Qué puedo hacer por ti?
+###  ¿Qué puedo hacer por ti?
 - Bots de Discord (moderación, música, sistemas, lo que quieras)
 - Plugins para Minecraft (Spigot, Paper, etc.)
 - Sitios web estáticos o dinámicos
