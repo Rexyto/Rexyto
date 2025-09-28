@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC"/>
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C"/>
+  <img src="https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=asm&logoColor=white&color=6E4C13"/>
   <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=68A063"/>
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E"/>
