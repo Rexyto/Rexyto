@@ -68,7 +68,7 @@ Soy un desarrollador **full stack autodidacta**, con un enfoque creativo y funci
 
 | Proyecto                     | Descripción                                                             |
 |------------------------------|-------------------------------------------------------------------------|
-| **discord-stats-bot**        | Bot de Discord en v14 diseñado para mostrar las stats de tu servidor    |
+| **Pancracio**                | Un compilador de un lenguaje de programación creado desde cero          |
 | **discord-bot-monitor**      | Bot antichrash que reinicia tus bots automáticamente si se apagan       |
 | **discord-verification-bot** | Bot de verificación sencillo para Discord v14                           |
 | **discord-memes-photos-bot** | Bot de memes y fotos para Discord                                       |
