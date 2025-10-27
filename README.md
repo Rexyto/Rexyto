@@ -48,13 +48,14 @@ Soy un desarrollador **full stack autodidacta**, con un enfoque creativo y funci
 
 ---
 
-##  NebulaCore — Tu idea, mi código
+## NebulaCore — Tu idea, mi código
 
 > ¿Tienes una idea y necesitas a alguien que la programe? ¡Eso es NebulaCore!
 
 **NebulaCore** es mi servicio personal de desarrollo a medida, donde convierto tus ideas en software real.
 
-###  ¿Qué puedo hacer por ti?
+### ¿Qué puedo hacer por ti?
+
 - Bots de Discord (moderación, música, sistemas, lo que quieras)
 - Plugins para Minecraft (Spigot, Paper, etc.)
 - Sitios web estáticos o dinámicos
@@ -62,10 +63,17 @@ Soy un desarrollador **full stack autodidacta**, con un enfoque creativo y funci
 - Automatizaciones, scripts, herramientas personalizadas
 - ¡Y mucho más! Si se puede programar, lo hago.
 
-💬 ¿Interesado?  
-👉 **[Únete a mi servidor de Discord y cuéntame tu idea](https://discord.gg/rpUX4Cq8Ht)**
+---
+
+### 🚀 Empieza ahora
+
+**🌐 Visita la web:** [nebulacoree.duckdns.org](https://nebulacoree.duckdns.org)
+
+**💬 Únete a Discord:** [discord.gg/rpUX4Cq8Ht](https://discord.gg/rpUX4Cq8Ht)
 
 ---
+
+*Transforma tu idea en realidad. NebulaCore hace que suceda.*
 
 ## 💼 Algunos proyectos
 
