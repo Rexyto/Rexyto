@@ -69,7 +69,7 @@ Soy un desarrollador **full stack autodidacta**, con un enfoque creativo y funci
 
 **Visita la web:** [nebulacoree.duckdns.org](https://nebulacoree.duckdns.org)
 
-**Únete a Discord:** [discord.gg/rpUX4Cq8Ht](https://discord.gg/rpUX4Cq8Ht)
+**Únete a Discord:** [discord.gg/rpUX4Cq8Ht](https://discord.gg/X3zkZkmzzV)
 
 ---
 
