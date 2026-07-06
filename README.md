@@ -84,5 +84,4 @@ Soy un desarrollador **full stack autodidacta**, con un enfoque creativo y funci
 | **discord-verification-bot** | Bot de verificación sencillo para Discord v14                           |
 | **discord-memes-photos-bot** | Bot de memes y fotos para Discord                                       |
 | **discord-copy-bot**         | Bot de respaldos y duplicación de servidores (canales, roles, etc.)     |
-| **weather-app**              | App sencilla de pronóstico del tiempo                                   |
 | **pautopia**                 | Web diseñada para ayudar a las personas a enfrentarse mejor a la PAU    |
