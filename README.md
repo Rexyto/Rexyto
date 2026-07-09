@@ -85,4 +85,4 @@ Soy un desarrollador **full stack autodidacta**, con un enfoque creativo y funci
 | **discord-memes-photos-bot** | Bot de memes y fotos para Discord                                       |
 | **discord-copy-bot**         | Bot de respaldos y duplicación de servidores (canales, roles, etc.)     |
 | **pautopia**                 | Web diseñada para ayudar a las personas a enfrentarse mejor a la PAU    |
-| **Yfitops**                  | Proyecto de música multiplataforma disponible para linux windows y android |
+| **Yfitops**                  | Proyecto de música multiplataforma disponible para linux windows, TV y android |
